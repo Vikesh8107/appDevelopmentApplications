@@ -47,7 +47,7 @@ If given more time, several enhancements and features could be added to the app:
 - HTML and JavaScript (for Web version).
 
 ## Contributors
-- Vikesh Laharpure
+- https://github.com/Vikesh8107
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
