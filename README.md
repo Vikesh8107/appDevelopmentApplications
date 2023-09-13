@@ -47,7 +47,7 @@ If given more time, several enhancements and features could be added to the app:
 - HTML and JavaScript (for Web version).
 
 ## Contributors
-- https://github.com/Vikesh8107
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
