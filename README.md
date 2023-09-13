@@ -29,6 +29,7 @@ During the development of this app, some challenges were encountered:
 - Managing the undo/redo functionality for user actions.
 - Integrating image selection and export features.
 - Ensuring cross-platform compatibility (Web and Mobile).
+- Fixing the errors was one of the major issues.
 
 ## Future Improvements
 If given more time, several enhancements and features could be added to the app:
@@ -46,8 +47,7 @@ If given more time, several enhancements and features could be added to the app:
 - HTML and JavaScript (for Web version).
 
 ## Contributors
-- Your Name
-- Any other contributors
+- Vikesh Laharpure
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
